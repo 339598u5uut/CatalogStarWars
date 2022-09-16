@@ -1,0 +1,14 @@
+{
+    "private": true,
+    "homepage": "https://339598u5uut.github.io/CatalogStarWars/",
+    "scripts": {
+        "lint": "eslint ./",
+        "lint:report": "eslint ./"
+    },
+    "devDependencies": {
+        "eslint": "^7.15.0",
+        "eslint-config-airbnb-base": "^14.2.1",
+        "eslint-formatter-gitlab": "^2.1.0",
+        "eslint-plugin-import": "^2.22.1"
+    }
+}
